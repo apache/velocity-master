@@ -22,7 +22,7 @@
     <parent>
         <artifactId>apache</artifactId>
         <groupId>org.apache</groupId>
-        <version>7</version>
+        <version>10</version>
     </parent>
     <groupId>org.apache.velocity</groupId>
     <artifactId>velocity-master</artifactId>
@@ -191,35 +191,4 @@
             <archive>http://mail-archives.apache.org/mod_mbox/velocity-commits/</archive>
         </mailingList>
     </mailingLists>
-    <build>
-        <pluginManagement>
-            <plugins>
-                <plugin>
-                    <groupId>org.apache.maven.plugins</groupId>
-                    <artifactId>maven-release-plugin</artifactId>
-                    <version>2.0</version>
-                </plugin>
-                <plugin>
-                    <groupId>org.apache.maven.plugins</groupId>
-                    <artifactId>maven-clean-plugin</artifactId>
-                    <version>2.4.1</version>
-                </plugin>
-                <plugin>
-                    <groupId>org.apache.maven.plugins</groupId>
-                    <artifactId>maven-install-plugin</artifactId>
-                    <version>2.3.1</version>
-                </plugin>
-                <plugin>
-                    <groupId>org.apache.maven.plugins</groupId>
-                    <artifactId>maven-site-plugin</artifactId>
-                    <version>2.1.1</version>
-                </plugin>
-                <plugin>
-                    <groupId>org.apache.maven.plugins</groupId>
-                    <artifactId>maven-antrun-plugin</artifactId>
-                    <version>1.4</version>
-                </plugin>
-            </plugins>
-        </pluginManagement>
-    </build>
 </project>
