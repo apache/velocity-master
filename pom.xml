@@ -43,6 +43,7 @@
         <developer>
             <name>Claude Brisson</name>
             <id>cbrisson</id>
+            <url>http://claude.brisson.info</url>
             <roles>
                 <role>Java developer</role>
                 <role>PMC Member</role>
@@ -56,7 +57,7 @@
             <organization>ESHA Research</organization>
             <roles>
                 <role>Java developer</role>
-                <role>PMC Member</role>
+                <role>PMC Chair</role>
             </roles>
         </developer>
 
@@ -67,7 +68,7 @@
             <organization>Forio Business Simulations</organization>
             <roles>
                 <role>Java developer</role>
-                <role>PMC Chair</role>
+                <role>PMC Member</role>
             </roles>
         </developer>
 
@@ -143,7 +144,7 @@
             <name>Antonio Petrelli</name>
             <id>apetrelli</id>
             <roles>
-                <role>PMC Member</role>
+                <role>Emeritus</role>
             </roles>
             <timezone>+1</timezone>
         </developer>
@@ -153,6 +154,22 @@
             <id>sdumitriu</id>
             <url>http://purl.org/net/sergiu</url>
             <timezone>-4</timezone>
+            <roles>
+                <role>PMC Member</role>
+            </roles>
+        </developer>
+
+        <developer>
+            <name>Dishara Wijewardana</name>
+            <id>dishara</id>
+            <roles>
+                <role>Java developer</role>
+            </roles>
+        </developer>
+	
+        <developer>
+            <name>Mike Kienenberger</name>
+            <id>mkienenb</id>
             <roles>
                 <role>Java developer</role>
             </roles>
