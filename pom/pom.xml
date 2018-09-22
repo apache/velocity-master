@@ -211,7 +211,7 @@
 
   <scm>
     <connection>scm:svn:https://svn.apache.org/repos/asf/velocity/maven/trunk/pom</connection>
-    <developerConnection>scm:svn:httpss://svn.apache.org/repos/asf/velocity/maven/trunk/pom</developerConnection>
+    <developerConnection>scm:svn:https://svn.apache.org/repos/asf/velocity/maven/trunk/pom</developerConnection>
     <url>https://svn.apache.org/repos/asf/velocity/maven/trunk/pom</url>
   </scm>
 
