@@ -188,7 +188,6 @@
       <post>user@velocity.apache.org</post>
       <archive>http://mail-archives.apache.org/mod_mbox/velocity-user/</archive>
       <otherArchives>
-        <otherArchive>http://www.nabble.com/Velocity---User-f347.html</otherArchive>
         <otherArchive>http://www.mail-archive.com/user@velocity.apache.org/</otherArchive>
       </otherArchives>
     </mailingList>
@@ -199,7 +198,6 @@
       <post>dev@velocity.apache.org</post>
       <archive>http://mail-archives.apache.org/mod_mbox/velocity-dev/</archive>
       <otherArchives>
-        <otherArchive>http://www.nabble.com/Velocity---Dev-f346.html</otherArchive>
         <otherArchive>http://www.mail-archive.com/dev@velocity.apache.org/</otherArchive>
       </otherArchives>
     </mailingList>
