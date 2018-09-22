@@ -30,7 +30,7 @@
 
   <groupId>org.apache.velocity</groupId>
   <artifactId>velocity-master</artifactId>
-  <version>3</version>
+  <version>4-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <name>Velocity - Master POM</name>
@@ -209,9 +209,9 @@
   </mailingLists>
 
   <scm>
-    <connection>scm:svn:https://svn.apache.org/repos/asf/velocity/maven/tags/velocity-master-3</connection>
-    <developerConnection>scm:svn:https://svn.apache.org/repos/asf/velocity/maven/tags/velocity-master-3</developerConnection>
-    <url>https://svn.apache.org/repos/asf/velocity/maven/tags/velocity-master-3</url>
+    <connection>scm:svn:https://svn.apache.org/repos/asf/velocity/maven/trunk/pom</connection>
+    <developerConnection>scm:svn:https://svn.apache.org/repos/asf/velocity/maven/trunk/pom</developerConnection>
+    <url>https://svn.apache.org/repos/asf/velocity/maven/trunk/pom</url>
   </scm>
 
   <build>
