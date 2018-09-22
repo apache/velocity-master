@@ -179,16 +179,16 @@
       <subscribe>general-subscribe@velocity.apache.org</subscribe>
       <unsubscribe>general-unsubscribe@velocity.apache.org</unsubscribe>
       <post>general@velocity.apache.org</post>
-      <archive>http://mail-archives.apache.org/mod_mbox/velocity-general/</archive>
+      <archive>https://mail-archives.apache.org/mod_mbox/velocity-general/</archive>
     </mailingList>
     <mailingList>
       <name>user</name>
       <subscribe>user-subscribe@velocity.apache.org</subscribe>
       <unsubscribe>user-unsubscribe@velocity.apache.org</unsubscribe>
       <post>user@velocity.apache.org</post>
-      <archive>http://mail-archives.apache.org/mod_mbox/velocity-user/</archive>
+      <archive>https://mail-archives.apache.org/mod_mbox/velocity-user/</archive>
       <otherArchives>
-        <otherArchive>http://www.mail-archive.com/user@velocity.apache.org/</otherArchive>
+        <otherArchive>https://www.mail-archive.com/user@velocity.apache.org/</otherArchive>
       </otherArchives>
     </mailingList>
     <mailingList>
@@ -196,16 +196,16 @@
       <subscribe>dev-subscribe@velocity.apache.org</subscribe>
       <unsubscribe>dev-unsubscribe@velocity.apache.org</unsubscribe>
       <post>dev@velocity.apache.org</post>
-      <archive>http://mail-archives.apache.org/mod_mbox/velocity-dev/</archive>
+      <archive>https://mail-archives.apache.org/mod_mbox/velocity-dev/</archive>
       <otherArchives>
-        <otherArchive>http://www.mail-archive.com/dev@velocity.apache.org/</otherArchive>
+        <otherArchive>https://www.mail-archive.com/dev@velocity.apache.org/</otherArchive>
       </otherArchives>
     </mailingList>
     <mailingList>
       <name>commits</name>
       <subscribe>commits-subscribe@velocity.apache.org</subscribe>
       <unsubscribe>commits-unsubscribe@velocity.apache.org</unsubscribe>
-      <archive>http://mail-archives.apache.org/mod_mbox/velocity-commits/</archive>
+      <archive>https://mail-archives.apache.org/mod_mbox/velocity-commits/</archive>
     </mailingList>
   </mailingLists>
 
