@@ -130,14 +130,6 @@
       <timezone>-5</timezone>
     </developer>
     <developer>
-      <name>Antonio Petrelli</name>
-      <id>apetrelli</id>
-      <roles>
-        <role>Emeritus</role>
-      </roles>
-      <timezone>+1</timezone>
-    </developer>
-    <developer>
       <name>Sergiu Dumitriu</name>
       <id>sdumitriu</id>
       <url>http://purl.org/net/sergiu</url>
