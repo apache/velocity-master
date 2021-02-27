@@ -196,7 +196,7 @@
 
   <scm>
     <connection>scm:git:https://gitbox.apache.org/repos/asf/velocity-master.git</connection>
-    <developerConnection>https://gitbox.apache.org/repos/asf/velocity-master.git</developerConnection>
+    <developerConnection>scm:git:https://gitbox.apache.org/repos/asf/velocity-master.git</developerConnection>
     <url>https://gitbox.apache.org/repos/asf?p=velocity-master.git</url>
   </scm>
 
