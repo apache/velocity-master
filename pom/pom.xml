@@ -170,40 +170,34 @@
       <subscribe>general-subscribe@velocity.apache.org</subscribe>
       <unsubscribe>general-unsubscribe@velocity.apache.org</unsubscribe>
       <post>general@velocity.apache.org</post>
-      <archive>https://mail-archives.apache.org/mod_mbox/velocity-general/</archive>
+      <archive>https://lists.apache.org/list.html?general@velocity.apache.org</archive>
     </mailingList>
     <mailingList>
       <name>user</name>
       <subscribe>user-subscribe@velocity.apache.org</subscribe>
       <unsubscribe>user-unsubscribe@velocity.apache.org</unsubscribe>
       <post>user@velocity.apache.org</post>
-      <archive>https://mail-archives.apache.org/mod_mbox/velocity-user/</archive>
-      <otherArchives>
-        <otherArchive>https://www.mail-archive.com/user@velocity.apache.org/</otherArchive>
-      </otherArchives>
+      <archive>https://lists.apache.org/list.html?user@velocity.apache.org</archive>
     </mailingList>
     <mailingList>
       <name>dev</name>
       <subscribe>dev-subscribe@velocity.apache.org</subscribe>
       <unsubscribe>dev-unsubscribe@velocity.apache.org</unsubscribe>
       <post>dev@velocity.apache.org</post>
-      <archive>https://mail-archives.apache.org/mod_mbox/velocity-dev/</archive>
-      <otherArchives>
-        <otherArchive>https://www.mail-archive.com/dev@velocity.apache.org/</otherArchive>
-      </otherArchives>
+      <archive>https://lists.apache.org/list.html?dev@velocity.apache.org</archive>
     </mailingList>
     <mailingList>
       <name>commits</name>
       <subscribe>commits-subscribe@velocity.apache.org</subscribe>
       <unsubscribe>commits-unsubscribe@velocity.apache.org</unsubscribe>
-      <archive>https://mail-archives.apache.org/mod_mbox/velocity-commits/</archive>
+      <archive>https://lists.apache.org/list.html?commits@velocity.apache.org</archive>
     </mailingList>
   </mailingLists>
 
   <scm>
-    <connection>scm:svn:https://svn.apache.org/repos/asf/velocity/maven/trunk/pom</connection>
-    <developerConnection>scm:svn:https://svn.apache.org/repos/asf/velocity/maven/trunk/pom</developerConnection>
-    <url>https://svn.apache.org/repos/asf/velocity/maven/trunk/pom</url>
+    <connection>scm:git:https://gitbox.apache.org/repos/asf/velocity-master.git</connection>
+    <developerConnection>https://gitbox.apache.org/repos/asf/velocity-master.git</developerConnection>
+    <url>https://gitbox.apache.org/repos/asf?p=velocity-master.git</url>
   </scm>
 
   <build>
