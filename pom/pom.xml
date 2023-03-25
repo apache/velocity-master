@@ -30,7 +30,7 @@
 
   <groupId>org.apache.velocity</groupId>
   <artifactId>velocity-master</artifactId>
-  <version>5-SNAPSHOT</version>
+  <version>5</version>
   <packaging>pom</packaging>
 
   <name>Velocity - Master POM</name>
@@ -197,7 +197,7 @@
     <connection>scm:git:https://gitbox.apache.org/repos/asf/velocity-master.git</connection>
     <developerConnection>scm:git:https://gitbox.apache.org/repos/asf/velocity-master.git</developerConnection>
     <url>https://gitbox.apache.org/repos/asf?p=velocity-master.git</url>
-    <tag>HEAD</tag>
+    <tag>5-RC2</tag>
   </scm>
 
   <build>
