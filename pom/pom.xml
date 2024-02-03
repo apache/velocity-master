@@ -30,7 +30,7 @@
 
   <groupId>org.apache.velocity</groupId>
   <artifactId>velocity-master</artifactId>
-  <version>6-SNAPSHOT</version>
+  <version>6</version>
   <packaging>pom</packaging>
 
   <name>Velocity - Master POM</name>
@@ -43,7 +43,7 @@
     <javaVersion>8</javaVersion>
     <maven.compiler.source>${javaVersion}</maven.compiler.source>
     <maven.compiler.target>${javaVersion}</maven.compiler.target>
-    <project.build.outputTimestamp>2024-01-17T00:00:00Z</project.build.outputTimestamp>
+    <project.build.outputTimestamp>2024-02-03T17:57:40Z</project.build.outputTimestamp>
   </properties>
 
   <developers>
@@ -205,7 +205,7 @@
     <connection>scm:git:https://gitbox.apache.org/repos/asf/velocity-master.git</connection>
     <developerConnection>scm:git:https://gitbox.apache.org/repos/asf/velocity-master.git</developerConnection>
     <url>https://gitbox.apache.org/repos/asf?p=velocity-master.git</url>
-    <tag>HEAD</tag>
+    <tag>velocity-master-6</tag>
   </scm>
 
   <build>
