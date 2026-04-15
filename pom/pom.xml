@@ -168,6 +168,16 @@
       </roles>
       <timezone>Europe/Berlin</timezone>
     </developer>
+    <developer>
+      <name>Claude Warren</name>
+      <id>velocity</id>
+      <email>claude@apache.org</email>
+      <roles>
+        <role>Java developer</role>
+        <role>PMC Member</role>
+      </roles>
+      <timezone>Europe/Dublin</timezone>
+    </developer>
   </developers>
 
   <mailingLists>
