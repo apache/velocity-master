@@ -30,7 +30,7 @@
 
   <groupId>org.apache.velocity</groupId>
   <artifactId>velocity-master</artifactId>
-  <version>9-SNAPSHOT</version>
+  <version>8-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <name>Velocity - Master POM</name>
@@ -170,7 +170,7 @@
     </developer>
     <developer>
       <name>Claude Warren</name>
-      <id>velocity</id>
+      <id>claude</id>
       <email>claude@apache.org</email>
       <roles>
         <role>Java developer</role>
